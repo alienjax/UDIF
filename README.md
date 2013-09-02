@@ -26,9 +26,7 @@ name.sparsebundle/
 name.sparsebundle/token
 name.sparsebundle/bands/<0...ff> (up to 10,000 files or more)
 ```
-A re-joined unencrypted bundle (.sparsebundle/bands/ topped off by .sparsebundle/token) is apparently
-identical to a .dmg file and is mounted by the system without a hitch. Encrypted, the system will authenticate
-the disk image correctly but gives a "Not Recognized" error. The following is from the log:
+A re-joined unencrypted bundle (.sparsebundle/bands/ topped off by .sparsebundle/token) is apparently identical to a .dmg file and is mounted by the system without a hitch. Encrypted, the system will authenticate the disk image correctly but gives a "Not Recognized" error. The following is from the log:
 ```
 diskimages-helper[46907]: CEncryptedEncoding: need to repair aj.dmg
 diskimages-helper[46907]: expected length: 122368, actual length: 15953408
