@@ -8,12 +8,12 @@ Disk Utility version: 13 (450)
 Format: Mac OS Extended (Journaled)
 No partition map
 Password "qwerty54"
-
+```
 Image formats are:
 UDRW - udif read/write disk image // default type
 UDSP - udif sparse disk image // grows along with contents
 UDSB - udif sprase bundle disk image / and re-joined // see below
-
+```
 encrypted and unencrypted
 files have been zipped to conserve space
 
