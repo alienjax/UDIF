@@ -5,9 +5,8 @@ Sample Apple Disk Image files
 
 Disk images created with OSX 10.84
 Disk Utility version: 13 (450)
-Format: Mac OS Extended (Journaled)
-No partition map
 HSFJ Filesystem (HFS+ Journaled)
+No partition map
 Password "qwerty54"
 
 Image formats are:
