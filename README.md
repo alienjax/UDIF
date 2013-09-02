@@ -14,8 +14,8 @@ UDRW - udif read/write disk image // default type
 UDSP - udif sparse disk image // grows along with contents
 UDSB - udif sprase bundle disk image / and re-joined // see below
 
-encrypted and unencrypted
-files have been zipped to conserve space
+Encrypted and unencrypted.
+Files have been zipped to conserve space, if they don't unzip correctly let me know.
 
 --
 
