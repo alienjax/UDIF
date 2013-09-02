@@ -16,7 +16,6 @@ UDSB - udif sprase bundle disk image / and re-joined // see below
 ```
 encrypted and unencrypted
 files have been zipped to conserve space
-
 --
 
 UDRW and UDSP are single file formats, while UDSB is a folder/bundle appearing as a file in OSX.
